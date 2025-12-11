@@ -30,3 +30,11 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khushali-alt&show_icons=true&locale=en" alt="khushali-alt" /></p>
 
+## Quotes I Like
+- "Progress requires unlearning. Becoming the best version of yourself requires you to continuously edit your beliefs, and to upgrade and expand your identity." - ([James Clear](https://en.wikipedia.org/wiki/James_Clear) - Atomic Habits)
+- “The cure for boredom is curiosity. There is no cure for curiosity.” - ([Nir Eyal](https://en.wikipedia.org/wiki/Nir_Eyal) - Indistractable)
+- "Most people don’t want to acknowledge the uncomfortable truth that distraction is always an unhealthy escape from reality." - ([Nir Eyal](https://en.wikipedia.org/wiki/Nir_Eyal) - Indistractable)
+- "Theory and practice sometimes clash. And when that happens, theory loses. Every single time." - ([Linus Torvalds](https://en.wikipedia.org/wiki/Linus_Torvalds) - Creator of Linux & Git)
+- "Information flow is what the Internet is about. Information sharing is power. If you don't share your ideas, smart people can't do anything about them, and you'll remain anonymous and powerless." ([Vint Cerf](https://en.wikipedia.org/wiki/Vint_Cerf) - The Father of the Internet)
+- "Don’t take criticism from someone you wouldn’t take advice from." ([Jim Kwik](https://en.wikipedia.org/wiki/Jim_Kwik) - Limitless)
+
