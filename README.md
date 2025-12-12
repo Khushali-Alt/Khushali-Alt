@@ -1,7 +1,7 @@
 <!-- ----------- HEAD SECTION ------------ -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=900020&size=30&center=true&vCenter=true&width=550&height=70&lines= Hlww+There+👋🏼%2C+I'm+Khushali+Tiwari+🌚;A+UG+CSE+Student+👩🏼‍💻;A+Backend+Developer+👾;A+Programmer+👩🏼‍💻;A+Cosmic+Fan+🌌">
+  <img src="https://readme-typing-svg.herokuapp.com?color=900020&size=30&center=true&vCenter=true&width=550&height=70&lines=Hlww+There+👋🏼;+I'm+Khushali+Tiwari+🙋🏼‍♀️;A+UG+CSE+Student+👩🏼‍💻;A+Backend+Developer+👾;And+A+Cosmic+Fan+🌌">
 </p>
 
 
