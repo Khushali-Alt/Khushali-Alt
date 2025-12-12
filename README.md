@@ -1,5 +1,12 @@
-<h1 align="center">Hlww there👋, I'm Khushali Tiwari</h1>
+<!-- ----------- HEAD SECTION ------------ -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=900020&size=30&center=true&vCenter=true&width=550&height=70&lines= Hlww+There+👋🏼%2C+I'm+Khushali+Tiwari+🌚;A+UG+CSE+Student+👩🏼‍💻;A+Backend+Developer+👾;A+Programmer+👩🏼‍💻;A+Cosmic+Fan+🌌">
+</p>
+
+
 <h3 align="center">A passionate Software Engineer from India.</h3>
+
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif">
 
 
