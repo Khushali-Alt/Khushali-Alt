@@ -21,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/khushali24285" target="blank"><img align="center" src="https://th.bing.com/th/id/OSK.avWwx5IuDG9Tg6uDeE_MxyoJTmTlIkZ7-Ab4oCbIIxM?w=50&h=50&c=12&o=6&cb=ucfimgc1&dpr=1.3&pid=SANGAM" alt="khushali24285" height="30" width="40" /></a>
+<a href="https://twitter.com/Khushali_ktgb24" target="blank"><img align="center" src="https://th.bing.com/th/id/OSK.avWwx5IuDG9Tg6uDeE_MxyoJTmTlIkZ7-Ab4oCbIIxM?w=50&h=50&c=12&o=6&cb=ucfimgc1&dpr=1.3&pid=SANGAM" alt="Khushali_ktgb24" height="30" width="40" /></a>
 <a href="https://linkedin.com/in//khushali-tiwari-6b8477284" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/khushali-tiwari-6b8477284" height="30" width="40" /></a>
 <a href="https://instagram.com/_khushali_2805" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_khushali_2805" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/khushali_22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="khushali_22" height="30" width="40" /></a>
