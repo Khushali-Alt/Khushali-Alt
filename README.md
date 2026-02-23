@@ -7,7 +7,6 @@
 
 <h3 align="center">A passionate Software Engineer from India.</h3>
 
-<img align="right" alt="coding" width="400" src="https://media.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif">
 
 
 
