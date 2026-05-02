@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **ktg552026@gmail.com**
 
-- ⚡ Fun fact **I think,I am Funny😅**
+- ⚡ Fun fact **I debug more than I code… and somehow that is coding.😅**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
